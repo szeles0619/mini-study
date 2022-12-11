@@ -1,1 +1,1 @@
-# mini-study
+# LandingPage
